@@ -77,7 +77,7 @@ refs <- bibtex::read.bib("../references.bib")
 
 The syllabus, tentative topics schedule, assignments, and all other class materials are posted on the course website.
 
-> You can access the course website at [mth-461a-fa24](){target="_blank"}. The website can also be viewed in Teams.
+> You can access the course website at [mth-461a-fa24](https://upmathematics.github.io/mth-461a-fa24/){target="_blank"}. The website can also be viewed in Teams.
 
 ### Microsoft Teams
 
