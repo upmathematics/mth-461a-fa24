@@ -1,0 +1,98 @@
+---
+title: |
+  | **Probability & Statistics I**
+  | **Syllabus**
+author: |
+  | MTH 461 Section A
+  | Fall 2024
+  | University of Portland
+bibliography: references.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(file.path("R","functions.R"))
+```
+
+```{r echo=FALSE}
+create_footer()
+```
+
+<br>
+
+> See Books & Online Resources Lists for the readings & practice materials.
+> 
+> The reading materials are not mandatory but it is encouraged.
+
+<br>The "Reading" column in the table below contains page numbers (Pg.) or chapters (ch.) on which it refers to a label in the Books & Online Resources List. For example "Pg. 1-5 [S]" refers to pages 1-5 of the first item in the list, which is the textbook titled "Probability, Statistics, and Data: A Fresh Approach Using R".
+
+<br>
+
+## **Topics and Materials**
+
+| **Week** | **Day** | **Topic** | **Worksheet** | **Homework** | **Reading** |
+|:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
+| **1** | Tu 8/27 | Introduction and Orientation to <br>Probability & Statistics | Review Set Theory & Calculus | - | Syllabus |
+|  | Th 8/29 | Basic Definition of Probability | TBA | - | TBA |
+| **2** | Tu 9/3 | Counting and Arranging | TBA | Assigned: Homework 1 | TBA |
+|  | Th 9/5 | General Definition of Probability | TBA | - | TBA |
+| **3** | Tu 9/10 | Independence of Events | TBA | Assigned: Homework 2 | TBA |
+|  | Th 9/12 | Conditional Probability and Baye's Theorem | TBA | - | TBA |
+| **4** | Tu 9/17 | Random Variables and Law of Large Numbers | TBA | - | TBA |
+|  | Th 9/19 | Functions of Random Variables | TBA | - | TBA |
+| **5** | Tu 9/24 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
+|  | Th 9/26 | **Exam 1** | - | - | - |
+| **6** | Tu 10/1 | Discrete Random Variables and Probability Mass Functions | TBA | Assigned: Homework 3 | TBA |
+|  | Th 10/3 | Bernoulli, Binomial, and Geometric Distributions | TBA | - | - |
+| **7** | Tu 10/8 | Expectation and Variance of Discrete Random Variables | TBA | Assigned: Homework 4 | TBA |
+|  | Th 10/10 | Continuous Random Variables and Probability Density Functions | TBA | - | TBA |
+| **8** | Tu 10/15 | _Fall Vacation_ | - | - | - |
+|  | Th 10/17 | _Fall Vacation_ | - | - | - |
+| **9** | Tu 10/22 | Uniform, Normal, and Exponential Distributions | TBA | - | TBA |
+|  | Th 10/24 | Expectation and Variance of Continuous Random Variables | TBA | - | TBA |
+| **10** | Tu 10/29 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
+|  | Th 10/31 | **Exam 2** | - | - | - |
+| **11** | Tu 11/5 | Moment Generating Functions | TBA | Assigned: Homework 5 | TBA |
+|  | Th 11/7 | Joint and Marginal Distributions | TBA | - | TBA |
+| **12** | Tu 11/12 | Conditional Distributions | TBA | Assigned: Homework 6 | TBA |
+|  | Th 11/14 | Conditional Expectation and Variance | TBA | - | TBA |
+| **13** | Tu 11/19 | Maximum Likelihood Estimation | TBA | - | - |
+|  | Th 11/21 | _Review_ | Exam 3 Examples | - | Exam 3 Topics |
+| **14** | Tu 11/26 | **Exam 3** | - | - | - |
+|  | Th 11/28 | _Thanksgiving Vacation_ | - | - | - |
+| **15** | Tu 12/3 | Statistical Inference | TBA | - | TBA |
+|  | Th 12/5 | Statistical Learning | TBA | - | TBA |
+| **16** | Tu 12/11 | Final Exam Section A | - | - | - |
+
+<br>
+
+Along with textbooks [S] and [B], some of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
+
+-   The elements of statistical learning: data mining, inference, and prediction by @hastie2009elements
+-   An introduction to statistical learning with Applications in R by @james2013introduction
+
+<br>
+
+## **Books & Online Resources Lists**
+
+```{r echo=FALSE}
+refs <- bibtex::read.bib("references.bib")
+```
+
+*Click on the link to access the resources.*
+
+### Textbooks
+
+[S] `r capture.output(print(refs["speegle2021probability"]))`
+
+[B] `r capture.output(print(refs["blitzstein2019introduction"]))`
+
+<br>
+
+## **References**
+
+::: {#refs}
+:::
+
+<br>

@@ -1,0 +1,25 @@
+name: "MTH-461A-fa2024"
+output_dir: "docs"
+description: |
+  Probability & Statistics I Section A at the University of Portland
+navbar:
+  title: "Fall 2024: MTH 461 A"
+  search: true
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Topics"
+      href: topics.html
+output:
+  html_document:
+    theme: sandstone
+    lib_dir: site_libs
+    toc: true
+    toc_float: true
+    urlcolor: green
+    link-citations: true
+    css: css/custom.css
+    include:
+      after_body: _footer.html

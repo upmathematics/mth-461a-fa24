@@ -1,0 +1,113 @@
+---
+title: |
+  | **Welcome to Probability & Statistics I!**
+author: |
+  | MTH 461 Section A
+  | Fall 2024
+  | University of Portland
+bibliography: references.bib
+csl: apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source(file.path("R","functions.R"))
+```
+
+```{r echo=FALSE}
+create_footer()
+```
+
+<br>
+
+## **Quick Content Guide**
+
+| Page                      | Contents                                                                          |
+|---------------------------|-----------------------------------------------------------------------------------|
+| [Home](index.html)        | Quick course and instructor information                                           |
+| [Syllabus](syllabus.html) | About the class, class materials and resources, class assessment and expectations |
+| [Topics](topics.html)     | Tentative topics, notes, assignments, and books and online resources list         |
+
+<br>
+
+## **Quick Course Information**
+
+### Course Information
+
+> * Title: MTH 461: Probability & Statistics I
+> * Sections: A
+
+### Instructor Information
+
+> * Instructor: Dr. Alex John Quijano
+> * Office: Buckley Center 279
+> * Email: quijano@up.edu
+
+### Lectures and Discussions
+
+> The course schedule and location is:
+>
+> * **Section A:** TuTh 2:30 PM - 3:55 PM, Dundon-Berchtold 230
+
+<br>
+
+## **Quick Academic Support**
+
+### Walk-In Help Hours
+
+> Dr. Alex John Quijano
+> 
+> * Walk-in Monday to Thursday at 1:00 PM - 2:00 PM, Buckley Center 279
+
+### Appointment-Based Sessions
+
+> Dr. Alex John Quijano
+>
+> <!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:auto;height:900px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+### The Learning Commons
+
+Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the [Learning Commons](www.up.edu/learningcommons){target="_blank"} website. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
+
+### Math Resource Center
+
+Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the [Math Resource Center](https://www.up.edu/learningcommons/math-resource-center/index.html){target="_blank"} website to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 7:00 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
+
+<br>
+
+## **Quick Communication Tools**
+
+### Microsoft Teams
+
+> The Teams for this course is [MTH-461A-fa24](https://teams.microsoft.com/l/team/19%3A_WC2dXNKSzgYcS40VzcrkoVn731q04C3jASb_3Fv9WY1%40thread.tacv2/conversations?groupId=61b78a42-5862-4b30-b469-e14a23d7dd57&tenantId=ea8f3949-231c-40b6-a33f-56873af96f87){target="_blank"}.
+
+### Email
+
+My UP email is quijano@up.edu. 
+
+> If you prefer communicating through email, note that I have set up an email filter for this course, and you must put the “MTH 321” keyword in your subject line. 
+
+<br>
+
+## **Quick Assignment Tools**
+
+### Moodle
+
+> All assignments must be submitted through [Moodle](https://learning.up.edu){target="_blank"} or physically. You are already listed in Moodle for this course using your UP account. The course Moodle page can also be accessed through Teams.
+
+### Posit Cloud
+
+> Create a free account at [Posit Cloud Sign-Up](https://login.posit.cloud/register?redirect=%2F){target="_blank"} using your UP email. Note that you must use your UP email for me to add you into the course’s workspace in Posit Cloud. You will receive an email inviting you into the workspace at the first week of the semester.
+
+### Wolfram
+
+We will be using Wolfram Mathematica and Alpha as a computational tool for some assignments. Wolfram Mathematica and Alpha instructions and materials for completing assignments will be provided ad hoc.
+
+> Mathematica software is installed on every machine in the UP computer labs.
+
+> You can access [Wolfram Alpha](https://www.wolframalpha.com/){target="_blank"} website for free and the website can also be accessed through Teams.
+
+<br>

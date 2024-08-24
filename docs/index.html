@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>index.knit</title>
+
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="css/custom.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Fall 2024: MTH 461 A</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="topics.html">Topics</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore"><div class="line-block"><strong>Welcome to
+Probability &amp; Statistics I!</strong></div></h1>
+<h4 class="author"><div class="line-block">MTH 461 Section A<br />
+Fall 2024<br />
+University of Portland</div></h4>
+
+</div>
+
+
+<p><br></p>
+<div id="quick-content-guide" class="section level2">
+<h2><strong>Quick Content Guide</strong></h2>
+<table>
+<colgroup>
+<col width="24%" />
+<col width="75%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Page</th>
+<th>Contents</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="index.html">Home</a></td>
+<td>Quick course and instructor information</td>
+</tr>
+<tr class="even">
+<td><a href="syllabus.html">Syllabus</a></td>
+<td>About the class, class materials and resources, class assessment and
+expectations</td>
+</tr>
+<tr class="odd">
+<td><a href="topics.html">Topics</a></td>
+<td>Tentative topics, notes, assignments, and books and online resources
+list</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</div>
+<div id="quick-course-information" class="section level2">
+<h2><strong>Quick Course Information</strong></h2>
+<div id="course-information" class="section level3">
+<h3>Course Information</h3>
+<blockquote>
+<ul>
+<li>Title: MTH 461: Probability &amp; Statistics I</li>
+<li>Sections: A</li>
+</ul>
+</blockquote>
+</div>
+<div id="instructor-information" class="section level3">
+<h3>Instructor Information</h3>
+<blockquote>
+<ul>
+<li>Instructor: Dr. Alex John Quijano</li>
+<li>Office: Buckley Center 279</li>
+<li>Email: <a href="mailto:quijano@up.edu"
+class="email">quijano@up.edu</a></li>
+</ul>
+</blockquote>
+</div>
+<div id="lectures-and-discussions" class="section level3">
+<h3>Lectures and Discussions</h3>
+<blockquote>
+<p>The course schedule and location is:</p>
+<ul>
+<li><strong>Section A:</strong> TuTh 2:30 PM - 3:55 PM, Dundon-Berchtold
+230</li>
+</ul>
+</blockquote>
+<p><br></p>
+</div>
+</div>
+<div id="quick-academic-support" class="section level2">
+<h2><strong>Quick Academic Support</strong></h2>
+<div id="walk-in-help-hours" class="section level3">
+<h3>Walk-In Help Hours</h3>
+<blockquote>
+<p>Dr. Alex John Quijano</p>
+<ul>
+<li>Walk-in Monday to Thursday at 1:00 PM - 2:00 PM, Buckley Center
+279</li>
+</ul>
+</blockquote>
+</div>
+<div id="appointment-based-sessions" class="section level3">
+<h3>Appointment-Based Sessions</h3>
+<blockquote>
+<p>Dr. Alex John Quijano</p>
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget"
+data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&amp;hide_gdpr_banner=1"
+style="min-width:auto;height:900px;">
+
+</div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+</blockquote>
+</div>
+<div id="the-learning-commons" class="section level3">
+<h3>The Learning Commons</h3>
+<p>Students can get academic assistance through Learning Commons
+tutoring services and workshops. The Co-Pilot peer tutoring program
+provides students with opportunities to work with other students to get
+help in writing, math, group projects, and other courses. Schedule an
+appointment to meet with a Co-Pilot (tutor) by visiting the <a
+href="www.up.edu/learningcommons" target="_blank">Learning Commons</a>
+website. Students can also meet with a Co-Pilot during drop-in hours.
+Check the Learning Commons website or drop by the Learning Commons in BC
+163 to learn more about their services. Find a tutor at the Learning
+Commons to get support on your academic journey.</p>
+</div>
+<div id="math-resource-center" class="section level3">
+<h3>Math Resource Center</h3>
+<p>Appointment-based tutoring accepts appointments starting week 1 and
+sessions start week 2. Visit the <a
+href="https://www.up.edu/learningcommons/math-resource-center/index.html"
+target="_blank">Math Resource Center</a> website to sign-up for an
+appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 7:00 PM
+in BC 163 and starts week 2. Check the Math Resource Center website or
+drop by the center for more information.</p>
+<p><br></p>
+</div>
+</div>
+<div id="quick-communication-tools" class="section level2">
+<h2><strong>Quick Communication Tools</strong></h2>
+<div id="microsoft-teams" class="section level3">
+<h3>Microsoft Teams</h3>
+<blockquote>
+<p>The Teams for this course is <a
+href="https://teams.microsoft.com/l/team/19%3A_WC2dXNKSzgYcS40VzcrkoVn731q04C3jASb_3Fv9WY1%40thread.tacv2/conversations?groupId=61b78a42-5862-4b30-b469-e14a23d7dd57&amp;tenantId=ea8f3949-231c-40b6-a33f-56873af96f87"
+target="_blank">MTH-461A-fa24</a>.</p>
+</blockquote>
+</div>
+<div id="email" class="section level3">
+<h3>Email</h3>
+<p>My UP email is <a href="mailto:quijano@up.edu"
+class="email">quijano@up.edu</a>.</p>
+<blockquote>
+<p>If you prefer communicating through email, note that I have set up an
+email filter for this course, and you must put the “MTH 321” keyword in
+your subject line.</p>
+</blockquote>
+<p><br></p>
+</div>
+</div>
+<div id="quick-assignment-tools" class="section level2">
+<h2><strong>Quick Assignment Tools</strong></h2>
+<div id="moodle" class="section level3">
+<h3>Moodle</h3>
+<blockquote>
+<p>All assignments must be submitted through <a
+href="https://learning.up.edu" target="_blank">Moodle</a> or physically.
+You are already listed in Moodle for this course using your UP account.
+The course Moodle page can also be accessed through Teams.</p>
+</blockquote>
+</div>
+<div id="posit-cloud" class="section level3">
+<h3>Posit Cloud</h3>
+<blockquote>
+<p>Create a free account at <a
+href="https://login.posit.cloud/register?redirect=%2F"
+target="_blank">Posit Cloud Sign-Up</a> using your UP email. Note that
+you must use your UP email for me to add you into the course’s workspace
+in Posit Cloud. You will receive an email inviting you into the
+workspace at the first week of the semester.</p>
+</blockquote>
+</div>
+<div id="wolfram" class="section level3">
+<h3>Wolfram</h3>
+<p>We will be using Wolfram Mathematica and Alpha as a computational
+tool for some assignments. Wolfram Mathematica and Alpha instructions
+and materials for completing assignments will be provided ad hoc.</p>
+<blockquote>
+<p>Mathematica software is installed on every machine in the UP computer
+labs.</p>
+</blockquote>
+<blockquote>
+<p>You can access <a href="https://www.wolframalpha.com/"
+target="_blank">Wolfram Alpha</a> website for free and the website can
+also be accessed through Teams.</p>
+</blockquote>
+<p><br></p>
+</div>
+</div>
+
+<footer>© 2023 <a href="https://www.alexjohnquijano.com">Alex John Quijano</a> <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-NC</a>
+<br/> Made with <a href="https://cran.r-project.org/">R</a> and <a href="https://rmarkdown.rstudio.com/">R Markdown,</a> 
+<br/><span style="font-size:0.8rem;">Last updated on August 24, 2024</span>
+
+</footer><div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div><!-- Add function to open links to external links in new tab, from: --><!-- https://yihui.name/en/2018/09/target-blank/ -->
+
+<script src="js/external-link.js"></script>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
