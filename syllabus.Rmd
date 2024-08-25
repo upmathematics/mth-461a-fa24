@@ -1,6 +1,6 @@
 ---
 title: |
-  | **Probability & Statistics I**
+  | **Probability \& Statistics I**
   | **Syllabus**
 author: |
   | MTH 461 Sections A
@@ -25,7 +25,7 @@ create_footer()
 
 ### Course Information
 
-> * Title: MTH 461: Probability & Statistics I
+> * Title: MTH 461: Probability \& Statistics I
 > * Sections: A
 
 ### Instructor Information
@@ -325,7 +325,7 @@ The grade you will receive for exams are a breakdown of your written and oral ex
 
 > Here is how you can sign-up for the exam (oral part):
 >
-> * [Probability & Statistics I Exam Sign-Up](https://calendly.com/alexjohnquijano/probability-and-statistics-i-exam){target="_Blank"} <br> *Click on the link to sign-up for a 15-minute session.*
+> * [Probability \& Statistics I Exam Sign-Up](https://calendly.com/alexjohnquijano/probability-and-statistics-i-exam){target="_Blank"} <br> *Click on the link to sign-up for a 15-minute session.*
 
 ### Exam Retakes
 
@@ -346,7 +346,7 @@ Here are the rules for exam retakes:
 
 > Here is how you can sign-up for the exam (oral part) retakes:
 >
-> * [Probability & Statistics I Exam Retakes](https://calendly.com/alexjohnquijano/retake-or-make-up-exam-upper-division){target="_Blank"} <br> *Click on the link to sign-up for a 15-minute session.*
+> * [Probability \& Statistics I Exam Retakes](https://calendly.com/alexjohnquijano/retake-or-make-up-exam-upper-division){target="_Blank"} <br> *Click on the link to sign-up for a 15-minute session.*
 
 ### Make-up Exams
 
@@ -362,7 +362,7 @@ Here are the rules of make-up exams:
 
 > Here is how you can sign-up for the exam (oral part) make-ups:
 >
-> * [Probability & Statistics I Exam Make-Ups](https://calendly.com/alexjohnquijano/retake-or-make-up-exam-upper-division){target="_Blank"} <br> *Click on the link to sign-up for a 15-minute session.*
+> * [Probability \& Statistics I Exam Make-Ups](https://calendly.com/alexjohnquijano/retake-or-make-up-exam-upper-division){target="_Blank"} <br> *Click on the link to sign-up for a 15-minute session.*
 
 ### Final Exam
 

@@ -1,6 +1,6 @@
 ---
 title: |
-  | **Welcome to Probability & Statistics I!**
+  | **Welcome to Probability \& Statistics I!**
 author: |
   | MTH 461 Section A
   | Fall 2024
@@ -34,7 +34,7 @@ create_footer()
 
 ### Course Information
 
-> * Title: MTH 461: Probability & Statistics I
+> * Title: MTH 461: Probability \& Statistics I
 > * Sections: A
 
 ### Instructor Information
@@ -64,7 +64,7 @@ create_footer()
 > Dr. Alex John Quijano
 >
 > <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:auto;height:900px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/alexjohnquijano?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:auto;height:600px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
@@ -103,8 +103,6 @@ My UP email is quijano@up.edu.
 > Create a free account at [Posit Cloud Sign-Up](https://login.posit.cloud/register?redirect=%2F){target="_blank"} using your UP email. Note that you must use your UP email for me to add you into the course’s workspace in Posit Cloud. You will receive an email inviting you into the workspace at the first week of the semester.
 
 ### Wolfram
-
-We will be using Wolfram Mathematica and Alpha as a computational tool for some assignments. Wolfram Mathematica and Alpha instructions and materials for completing assignments will be provided ad hoc.
 
 > Mathematica software is installed on every machine in the UP computer labs.
 
