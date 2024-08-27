@@ -173,7 +173,7 @@ Students can get academic assistance through Learning Commons tutoring services 
 
 ### Math Resource Center
 
-Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the [Math Resource Center](https://www.up.edu/learningcommons/math-resource-center/index.html){target="_blank"} website to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 7:00 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
+Appointment-based tutoring accepts appointments starting week 1 and sessions start week 2. Visit the [Math Resource Center](https://www.up.edu/learningcommons/tutoring-services/math-resource-center/index.html){target="_blank"} website to sign-up for an appointment. Drop-in tutoring is Monday to Thursday, 3:00 PM - 7:00 PM in BC 163 and starts week 2. Check the Math Resource Center website or drop by the center for more information.
 
 ### Help Hours Guidelines
 
@@ -417,6 +417,10 @@ Especially for written and oral assignments, students have an ethical responsibi
 The misuse of AI to shortcut course learning outcomes will be treated as a violation of academic integrity comparable to plagiarism or cheating. Faculty are responsible for including a written “Course AI Policy” in their syllabi that clearly states what they consider appropriate and inappropriate uses of AI in the context of their courses. Students are responsible for using AI in ways that do not detract from the established learning outcomes of the course. All members of the scholarly community are responsible for demonstrating sound judgment in discerning when and how to utilize AI in their work, upholding standards of citation, originality, and integrity.
 
 Please see the University Bulletin for further information: [up.smartcatalogiq.com/en/2023-2024/bulletin/](http://up.smartcatalogiq.com/en/2022-2023/bulletin/University-Academic-Regulations/I-Code-of-Academic-Integrity/Guidelines-for-Implementation-of-the-Universitys-Code-of-Academic-Integrity){target="_blank"}.
+
+### Course AI Policy
+
+The use of generative AI — such as Copilot, Gemini, or ChatGPT — is encouraged and allowed in all of its capacity. However, students must use these tools ethically and responsibly. To use generative AI responsibly in this class, students should grasp underlying concepts, acknowledge AI's assistance, protect data privacy, verify information, and uphold academic honor code. AI should be seen as a learning aid, not a replacement for critical thinking.
 
 ### Referencing and Citation Guidelines
 

@@ -1,22 +1,32 @@
 ---
-title: |
+title: | 
+  \vspace{-1in}
   | **Probability \& Statistics I**
   | **Tentative Topics Schedule**
 author: |
-  | MTH 461 Section A
+  | MTH 461 Section  A
   | Fall 2024
   | University of Portland
-bibliography: references.bib
-csl: apa.csl
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 461A P\&SI - Topics}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+bibliography: ../../references.bib
+csl: ../../apa.csl
+geometry: "left=0.50in,right=0.50in,top=0.75in,bottom=0.75in"
+fontsize: 12pt
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-source(file.path("R","functions.R"))
-```
-
-```{r echo=FALSE}
-create_footer()
 ```
 
 <br>
@@ -34,7 +44,7 @@ create_footer()
 | **Week** | **Day** | **Topic** | **Worksheet** | **Homework** | **Reading** |
 |:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
 | **1** | Tu 8/27 | Introduction and Orientation to <br>Probability \& Statistics | Review Set Theory \& Calculus | - | Syllabus |
-|  | Th 8/29 | Basic Definition of Probability | Computing Probabilities | - | TBA |
+|  | Th 8/29 | Basic Definition of Probability | TBA | - | TBA |
 | **2** | Tu 9/3 | Counting and Arranging | TBA | Assigned: Homework 1 | TBA |
 |  | Th 9/5 | General Definition of Probability | TBA | - | TBA |
 | **3** | Tu 9/10 | Independence of Events | TBA | Assigned: Homework 2 | TBA |
@@ -77,7 +87,7 @@ Along with textbooks [S] and [B], some of the course materials (contents of work
 ## **Books \& Online Resources Lists**
 
 ```{r echo=FALSE}
-refs <- bibtex::read.bib("references.bib")
+refs <- bibtex::read.bib("../references.bib")
 ```
 
 *Click on the link to access the resources.*
