@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## **Topics and Materials**
 
 | **Week** | **Day** | **Topic** | **Worksheet** | **Homework** | **Reading** |
-|:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
+|:---:|:----:|:---------------:|:------:|:-----:|:--------:|
 | **1** | Tu 8/27 | Introduction and Orientation to <br>Probability \& Statistics | Review Set Theory \& Calculus | - | Syllabus |
 |  | Th 8/29 | Basic Definition of Probability | TBA | - | TBA |
 | **2** | Tu 9/3 | Counting and Arranging | TBA | Assigned: Homework 1 | TBA |

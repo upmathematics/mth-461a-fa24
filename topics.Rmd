@@ -32,11 +32,11 @@ create_footer()
 ## **Topics and Materials**
 
 | **Week** | **Day** | **Topic** | **Worksheet** | **Homework** | **Reading** |
-|:-----:|:-----:|:---------------:|:-----:|:-----:|:-----:|
+|:---:|:----:|:---------------:|:------:|:-----:|:--------:|
 | **1** | Tu 8/27 | Introduction and Orientation to <br>Probability \& Statistics | Review Set Theory \& Calculus | - | Syllabus |
-|  | Th 8/29 | Basic Definition of Probability | Computing Probabilities | - | TBA |
-| **2** | Tu 9/3 | Counting and Arranging | TBA | Assigned: Homework 1 | TBA |
-|  | Th 9/5 | General Definition of Probability | TBA | - | TBA |
+|  | Th 8/29 | Basic Definition of Probability | Computing Probabilities and Random Sampling | - | Sect. 1.1,1.2,\&1.3 [B] |
+| **2** | Tu 9/3 | Counting and Arranging | Introduce the Basics of Combinatorics | Assigned: Homework 1 | Sect. 1.4 \& 1.5 [B], and<br> Sect. 2.4 [S] |
+|  | Th 9/5 | General Definition of Probability | Understand the properties of probability | - | Sect. 1.6 [B], and<br>Sect. 2.1\&2.2 [S] |
 | **3** | Tu 9/10 | Independence of Events | TBA | Assigned: Homework 2 | TBA |
 |  | Th 9/12 | Conditional Probability \&<br>Baye's Theorem | TBA | - | TBA |
 | **4** | Tu 9/17 | Random Variables \&<br>Law of Large Numbers | TBA | - | TBA |

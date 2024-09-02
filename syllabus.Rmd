@@ -263,7 +263,7 @@ There will be worksheets for each non-exam week. The purpose of the worksheets i
 
 Homework is assigned every week and due every Friday by end-of-day, except for exam weeks. You must do and submit your homework individually. Homework is graded mostly on correctness and completion.
 
-If have not submitted a homework assignment, which usually means you missed the deadline, that homework is an automatic *M*. If you have received an *M* mark, you can still submit your work and it will be evaluated normally with feedback but you won't have the chance to revise.
+If you have not submitted a homework assignment, which usually means you missed the deadline, that homework is an automatic *M*. If you have received an *M* mark, you can still submit your work and it will be evaluated normally with feedback but you won't have the chance to revise.
 
 ### Homework Revisions
 
