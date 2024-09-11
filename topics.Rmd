@@ -37,33 +37,33 @@ create_footer()
 |  | Th 8/29 | Basic Definition of Probability | Computing Probabilities and Random Sampling | - | Sect. 1.1,1.2,\&1.3 [B] |
 | **2** | Tu 9/3 | Counting and Arranging | Introduce the Basics of Combinatorics | - | Sect. 1.4 \& 1.5 [B], and<br>Sect. 2.4 [S] |
 |  | Th 9/5 | General Definition of Probability | Understand the Properties of Probability | - | Sect. 1.6 [B], and<br>Sect. 2.1\&2.2 [S] |
-| **3** | Tu 9/10 | Conditional Probability | Think Conditionally | Assigned: Homework 1 | Sect. 2.1 \& 2.2 [B], and<br>Sect. 2.3 [S] |
-|  | Th 9/12 | Baye's Theorem, \&<br>The Law of Total Probability | Update Conditional Probabilities | - | Sect. 2.3 \& 2.4 [B] |
-| **4** | Tu 9/17 | Random Variables \&<br>Probability Functions | - | Assigned: Homework 2 | TBA |
-|  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | TBA | - | TBA |
-| **5** | Tu 9/24 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
-|  | Th 9/26 | **Exam 1** | - | - | - |
-| **6** | Tu 10/1 | Discrete Random Variables \&<br>Probability Mass Functions | TBA | Assigned: Homework 3 | TBA |
-|  | Th 10/3 | Bernoulli, Binomial, and Geometric Distributions | TBA | - | - |
-| **7** | Tu 10/8 | Expectation and Variance of Discrete Random Variables | TBA | Assigned: Homework 4 | TBA |
-|  | Th 10/10 | Continuous Random Variables \&<br>Probability Density Functions | TBA | - | TBA |
+| **3** | Tu 9/10 | Conditional Probability | Think Conditionally | - | Sect. 2.1 \& 2.2 [B], and<br>Sect. 2.3 [S] |
+|  | Th 9/12 | Baye's Theorem, \&<br>The Law of Total Probability | Update Conditional Probabilities | Assigned: Homework 1 | Sect. 2.3 \& 2.4 [B] |
+| **4** | Tu 9/17 | Random Variables \&<br>Probability Functions | TBA | - | TBA |
+|  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | TBA | Assigned: Homework 2 | TBA |
+| **5** | Tu 9/24 | Discrete Random Variables \&<br>Probability Mass Functions | TBA | - | TBA |
+|  | Th 9/26 | Bernoulli, Binomial, and Geometric Distributions | TBA | Assigned: Homework 3 | TBA |
+| **6** | Tu 10/1 | Expectation and Variance of Discrete Random Variables | TBA | - | TBA |
+|  | Th 10/3 | Continuous Random Variables \&<br>Probability Density Functions | TBA | - | - |
+| **7** | Tu 10/8 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
+|  | Th 10/10 | **Exam 1** | - | - | - |
 | **8** | Tu 10/15 | _Fall Vacation_ | - | - | - |
 |  | Th 10/17 | _Fall Vacation_ | - | - | - |
 | **9** | Tu 10/22 | Uniform, Normal, and Exponential Distributions | TBA | - | TBA |
-|  | Th 10/24 | Expectation and Variance of Continuous Random Variables | TBA | - | TBA |
-| **10** | Tu 10/29 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
-|  | Th 10/31 | **Exam 2** | - | - | - |
-| **11** | Tu 11/5 | Moment Generating Functions | TBA | Assigned: Homework 5 | TBA |
-|  | Th 11/7 | Joint and Marginal Distributions | TBA | - | TBA |
-| **12** | Tu 11/12 | Conditional Distributions | TBA | Assigned: Homework 6 | TBA |
-|  | Th 11/14 | Conditional Expectation and Variance | TBA | - | TBA |
-| **13** | Tu 11/19 | Maximum Likelihood Estimation | TBA | - | - |
-|  | Th 11/21 | _Review_ | Exam 3 Examples | - | Exam 3 Topics |
-| **14** | Tu 11/26 | **Exam 3** | - | - | - |
+|  | Th 10/24 | Expectation and Variance of Continuous Random Variables | TBA | Assigned: Homework 4 | TBA |
+| **10** | Tu 10/29 | Moment Generating Functions | TBA | - | TBA |
+|  | Th 10/31 | Joint and Marginal Distributions | TBA | Assigned: Homework 5 | TBA |
+| **11** | Tu 11/5 | Conditional Distributions | TBA | - | TBA |
+|  | Th 11/7 | Conditional Expectation and Variance | TBA | Assigned: Homework 6 | TBA |
+| **12** | Tu 11/12 | Maximum Likelihood Estimation | TBA | - | TBA |
+|  | Th 11/14 | Markov Chains | TBA | - | TBA |
+| **13** | Tu 11/19 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
+|  | Th 11/21 | **Exam 2** | - | - | - |
+| **14** | Tu 11/26 | Markov Chain Monte Carlo | TBA | - | TBA |
 |  | Th 11/28 | _Thanksgiving Vacation_ | - | - | - |
 | **15** | Tu 12/3 | Statistical Inference | TBA | - | TBA |
 |  | Th 12/5 | Statistical Learning | TBA | - | TBA |
-| **16** | Tu 12/11 | Final Exam Section A | - | - | - |
+| **16** | Tu 12/11 | **Final Exam Section A** | - | - | - |
 
 <br>
 
