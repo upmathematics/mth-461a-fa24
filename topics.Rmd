@@ -39,7 +39,7 @@ create_footer()
 |  | Th 9/5 | General Definition of Probability | Understand the Properties of Probability | - | Sect. 1.6 [B], and<br>Sect. 2.1\&2.2 [S] |
 | **3** | Tu 9/10 | Conditional Probability | Think Conditionally | - | Sect. 2.1 \& 2.2 [B], and<br>Sect. 2.3 [S] |
 |  | Th 9/12 | Baye's Theorem, \&<br>The Law of Total Probability | Update Conditional Probabilities | Assigned: Homework 1 | Sect. 2.3 \& 2.4 [B] |
-| **4** | Tu 9/17 | Random Variables \&<br>Probability Functions | Describe a Random Variable | - | TBA |
+| **4** | Tu 9/17 | Random Variables \&<br>Probability Functions | Describe a Random Variable | - | Sect. 3.1 \& 3.2 [B] |
 |  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | Compute the Expected Value | Assigned: Homework 2 | TBA |
 | **5** | Tu 9/24 | Discrete Random Variables \&<br>Probability Mass Functions | TBA | - | TBA |
 |  | Th 9/26 | Bernoulli, Binomial, and Geometric Distributions | TBA | Assigned: Homework 3 | TBA |
