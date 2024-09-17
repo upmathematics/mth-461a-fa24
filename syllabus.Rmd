@@ -162,8 +162,10 @@ Upon completion of the course, you will be able to:
 
 > Dr. Alex John Quijano
 > 
-> * Walk-in Monday to Thursday at 1:00 PM - 2:00 PM, Buckley Center 279
+> * Walk-in Monday to Thursday at 4:00 PM - 5:00 PM, Buckley Center 279
 > * [One-to-One, Buckley Center 279 or in Teams](https://calendly.com/alexjohnquijano/helphours){target="_blank"} <br> *Click on the link to sign-up for a 15-minute session.*
+
+*Amendment 4:* Walk-in Help Hours was changed from 1:00 PM - 2:00 PM to 4:00 PM - 5:00 PM.
 
 My walk-in help hours start week 2. Note that you can bring a fellow student with you when you sign-up for a session. Just click the "Add Guests" link when you sign-up, and add in your fellow student's UP email. If you need more than 15 minutes, you can book at least two consecutive sessions.
 
@@ -223,9 +225,11 @@ Given the following categorical grade, the student's work is able to:
 | **Acceptable <br> (A)** | Show some understanding of material but makes errors, can solve some problems, may need help with more difficult ones, need to work on problem-solving skills and reasoning needed. |
 | **Needs Improvement <br> (NI)** | Show potential but needs more work, made a lot of errors or unable to solve any problems, need to work on understanding material and problem-solving skills. |
 | **Needs Major Improvement <br> (NMI)** | Little understanding of material and some parts are incomplete or missing. Made many errors, unable to solve any problems, need to work on understanding material from the ground up. |
-| **Missing <br> (M)** | Work is not submitted or missing |
+| **Missing or Late <br> (M)** | The work is either not submitted, incomplete (*entirely or partially*), or submitted *significantly* late. |
 
 *Note that these are categorical grades (not scores).*
+
+*Amendment 1:* The grade category "M" was changed from "Missing (M)" to "Missing or Late (M)" and its description was changed from "Work is not submitted or missing" to "The work is either not submitted, incomplete (*entirely or partially*), or submitted *significantly* late."
 
 ### Final Grades
 
@@ -263,7 +267,7 @@ There will be worksheets for each non-exam week. The purpose of the worksheets i
 
 Homework is assigned every week and due every Friday by end-of-day, except for exam weeks. You must do and submit your homework individually. Homework is graded mostly on correctness and completion.
 
-If you have not submitted a homework assignment, which usually means you missed the deadline, that homework is an automatic *M*. If you have received an *M* mark, you can still submit your work and it will be evaluated normally with feedback but you won't have the chance to revise.
+*Amendment 2:* The paragraph "If you have not submitted a homework assignment, which usually means you missed the deadline, that homework is an automatic *M*. If you have received an *M* mark, you can still submit your work and it will be evaluated normally with feedback but you won't have the chance to revise" was deleted.
 
 ### Homework Revisions
 
@@ -272,7 +276,10 @@ You can revise your homework for an up-grade, meaning - for example - a grade of
 Here are the qualifications and requirements for homework revisions:
 
   * A homework grade of "NMI", "NI", "A", or "E".
-  * The revised homework must be completed, meaning all parts should have your full written solutions. Missing homework is disqualified for revisions, but you can still use them as practice.
+  * The revised homework must be completed, meaning all parts should have your full written solutions.
+  * Homework marked with "M" is disqualified for revisions, but you can still use them as practice.
+  
+*Amendment 3:* The sentence "Missing homework is disqualified for revisions, but you can still use them as practice" was changed to "Homework marked with "M" is disqualified for revisions, but you can still use them as practice". The new sentence was moved to a new bullet point.
   
 Here are the rules for homework revisions:
 

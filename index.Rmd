@@ -57,7 +57,7 @@ create_footer()
 
 > Dr. Alex John Quijano
 > 
-> * Walk-in Monday to Thursday at 1:00 PM - 2:00 PM, Buckley Center 279
+> * Walk-in Monday to Thursday at 4:00 PM - 5:00 PM, Buckley Center 279
 
 ### Appointment-Based Sessions
 
