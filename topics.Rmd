@@ -40,9 +40,9 @@ create_footer()
 | **3** | Tu 9/10 | Conditional Probability | Think Conditionally | - | Sect. 2.1 \& 2.2 [B], and<br>Sect. 2.3 [S] |
 |  | Th 9/12 | Baye's Theorem, \&<br>The Law of Total Probability | Update Conditional Probabilities | Assigned: Homework 1 | Sect. 2.3 \& 2.4 [B] |
 | **4** | Tu 9/17 | Random Variables \&<br>Probability Functions | Describe a Random Variable | - | Sect. 3.1 \& 3.2 [B] |
-|  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | Compute the Expected Value | Assigned: Homework 2 | TBA |
+|  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | Compute the Expected Value | - | TBA |
 | **5** | Tu 9/24 | Discrete Random Variables \&<br>Probability Mass Functions | TBA | - | TBA |
-|  | Th 9/26 | Bernoulli, Binomial, and Geometric Distributions | TBA | Assigned: Homework 3 | TBA |
+|  | Th 9/26 | Bernoulli, Binomial, and Geometric Distributions | TBA | Assigned: Homework 2 | TBA |
 | **6** | Tu 10/1 | Expectation and Variance of Discrete Random Variables | TBA | - | TBA |
 |  | Th 10/3 | Continuous Random Variables \&<br>Probability Density Functions | TBA | - | TBA |
 | **7** | Tu 10/8 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
