@@ -310,7 +310,9 @@ Here are the rules for the written part of the exams:
 
 #### **Oral**
 
-The oral part of the exam allows you to demonstrate your understanding of the material verbally. It is administered mostly in dialog style during exam days. The oral exam is only ten to fifteen minutes and it consists of one or two problems similar to the written exam with added questions from me. This part will be evaluated on your ability to explain key concepts and navigate through different ways to solve problems, rather than detailed solutions.
+The oral part of the exam allows you to demonstrate your understanding of the material verbally. It is administered mostly in dialog style during exam days. The oral exam lasts only ten to fifteen minutes and includes predetermined questions about problems from the written exam, which are provided to the student ahead of time. This part will be evaluated on your ability to explain key concepts and navigate through different ways to solve problems, rather than detailed solutions.
+
+*Amendment 5:* The sentence "The oral exam is only ten to fifteen minutes and it consists of one or two problems similar to the written exam with added questions from me" was changed to "The oral exam lasts only ten to fifteen minutes and includes predetermined questions about problems from the written exam, which are provided to the student ahead of time."
 
 Oral exams will be graded on 3 components:
 
