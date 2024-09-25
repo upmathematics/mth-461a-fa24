@@ -41,9 +41,9 @@ create_footer()
 |  | Th 9/12 | Baye's Theorem, \&<br>The Law of Total Probability | Update Conditional Probabilities | Assigned: Homework 1 | Sect. 2.3 \& 2.4 [B] |
 | **4** | Tu 9/17 | Random Variables \&<br>Probability Functions | Describe a Random Variable | - | Sect. 3.1 [B] |
 |  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | Compute the Expected Value | - | Sect. 4.1, 4.2, \& 4.3 [B] |
-| **5** | Tu 9/24 | Discrete Random Variables \&<br>Probability Mass Functions | TBA | - | Sect. 3.2 \& 3.3 |
-|  | Th 9/26 | Discrete Probability Distributions | TBA | Assigned: Homework 2 | Sect. 3.4, 3.5, \& 3.6 [B] |
-| **6** | Tu 10/1 | Expectation and Variance of Discrete Random Variables | TBA | - | Sect. 4.4, 4.5, \& 4.6 [B] |
+| **5** | Tu 9/24 | Discrete Random Variables \&<br>Probability Mass Functions | Create Probability Mass Functions | - | Sect. 3.2 \& 3.3 |
+|  | Th 9/26 | Discrete Probability Distributions | Understand Known Probability Distributions | Assigned: Homework 2 | Sect. 3.4, 3.5, \& 3.6 [B] |
+| **6** | Tu 10/1 | Expectation and Variance of Discrete Random Variables | Interpret the Expected value and Variance | - | Sect. 4.4, 4.5, \& 4.6 [B] |
 |  | Th 10/3 | Continuous Random Variables \&<br>Probability Density Functions | TBA | - | Sect. 5.1 [B] |
 | **7** | Tu 10/8 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
 |  | Th 10/10 | **Exam 1** | - | - | - |
