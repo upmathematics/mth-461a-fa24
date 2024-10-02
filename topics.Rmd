@@ -43,26 +43,26 @@ create_footer()
 |  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | Compute the Expected Value | - | Sect. 4.1, 4.2, \& 4.3 [B] |
 | **5** | Tu 9/24 | Discrete Random Variables \&<br>Probability Mass Functions | Create Probability Mass Functions | - | Sect. 3.2 \& 3.3 |
 |  | Th 9/26 | Discrete Probability Distributions | Understand Known Discrete Probability Distributions | Assigned: Homework 2 | Sect. 3.4, 3.5, \& 3.6 [B] |
-| **6** | Tu 10/1 | Expectation and Variance of Discrete Random Variables | Interpret the Expected Value and Variance | - | Sect. 4.4, 4.5, \& 4.6 [B] |
-|  | Th 10/3 | Continuous Random Variables \&<br>Probability Density Functions | Create Probability Density functions | - | Sect. 5.1 [B] |
+| **6** | Tu 10/1 | _Cancelled_ | - | - | - |
+|  | Th 10/3 | Expectation and Variance of Discrete Random Variables | Interpret the Expected Value and Variance | - | Sect. 4.4, 4.5, \& 4.6 [B] |
 | **7** | Tu 10/8 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
 |  | Th 10/10 | **Exam 1** | - | - | - |
 | **8** | Tu 10/15 | _Fall Vacation_ | - | - | - |
 |  | Th 10/17 | _Fall Vacation_ | - | - | - |
-| **9** | Tu 10/22 | Continuous Probability Distributions | TBA | - | TBA |
-|  | Th 10/24 | Expectation and Variance of Continuous Random Variables | TBA | Assigned: Homework 3 | TBA |
-| **10** | Tu 10/29 | Moment Generating Functions | TBA | - | TBA |
-|  | Th 10/31 | Joint and Marginal Distributions | TBA | - | TBA |
-| **11** | Tu 11/5 | Conditional Distributions | TBA | - | TBA |
-|  | Th 11/7 | Conditional Expectation and Variance | TBA | Assigned: Homework 4 | TBA |
-| **12** | Tu 11/12 | Maximum Likelihood Estimation | TBA | - | TBA |
-|  | Th 11/14 | Markov Chains | TBA | - | TBA |
+| **9** | Tu 10/22 | Continuous Random Variables \&<br>Probability Density Functions | Create Probability Density functions | - | Sect. 5.1 [B] |
+|  | Th 10/24 | Continuous Probability Distributions | TBA | Assigned: Homework 3 | TBA |
+| **10** | Tu 10/29 | Expectation and Variance of Continuous Random Variables | TBA | - | TBA |
+|  | Th 10/31 | Moment Generating Functions | TBA | - | TBA |
+| **11** | Tu 11/5 | Joint and Marginal Distributions | TBA | - | TBA |
+|  | Th 11/7 | Conditional Distributions | TBA | Assigned: Homework 4 | TBA |
+| **12** | Tu 11/12 | Conditional Expectation and Variance | TBA | - | TBA |
+|  | Th 11/14 | Maximum Likelihood Estimation | TBA | - | TBA |
 | **13** | Tu 11/19 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
 |  | Th 11/21 | **Exam 2** | - | - | - |
-| **14** | Tu 11/26 | Markov Chain Monte Carlo | TBA | - | TBA |
+| **14** | Tu 11/26 | Markov Chains | TBA | - | TBA |
 |  | Th 11/28 | _Thanksgiving Vacation_ | - | - | - |
-| **15** | Tu 12/3 | Statistical Inference | TBA | - | TBA |
-|  | Th 12/5 | Statistical Learning | TBA | - | TBA |
+| **15** | Tu 12/3 | Markov Chain Monte Carlo | TBA | - | TBA |
+|  | Th 12/5 | Statistical Inference \& Learning | TBA | - | TBA |
 | **16** | Tu 12/11 | **Final Exam Section A** | - | - | - |
 
 <br>
