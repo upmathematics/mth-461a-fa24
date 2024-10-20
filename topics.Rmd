@@ -34,35 +34,35 @@ create_footer()
 | **Week** | **Day** | **Topic** | **Worksheet** | **Homework** | **Reading** |
 |:---:|:----:|:---------------:|:------:|:-----:|:--------:|
 | **1** | Tu 8/27 | Introduction and Orientation to <br>Probability \& Statistics | Review Set Theory \& Calculus | - | Syllabus |
-|  | Th 8/29 | Basic Definition of Probability | Computing Probabilities and Random Sampling | - | Sect. 1.1,1.2,\&1.3 [B] |
-| **2** | Tu 9/3 | Counting and Arranging | Introduce the Basics of Combinatorics | - | Sect. 1.4 \& 1.5 [B], and<br>Sect. 2.4 [S] |
-|  | Th 9/5 | General Definition of Probability | Understand the Properties of Probability | - | Sect. 1.6 [B], and<br>Sect. 2.1\&2.2 [S] |
-| **3** | Tu 9/10 | Conditional Probability | Think Conditionally | - | Sect. 2.1 \& 2.2 [B], and<br>Sect. 2.3 [S] |
-|  | Th 9/12 | Baye's Theorem, \&<br>The Law of Total Probability | Update Conditional Probabilities | Assigned: Homework 1 | Sect. 2.3 \& 2.4 [B] |
+|  | Th 8/29 | Basic Definition of Probability | Computing Probabilities and Random Sampling | - | Sect. 1.1-1.3 [B] |
+| **2** | Tu 9/3 | Counting and Arranging | Introduce the Basics of Combinatorics | - | Sect. 1.4-1.5 [B] |
+|  | Th 9/5 | General Definition of Probability | Understand the Properties of Probability | - | Sect. 1.6 [B] |
+| **3** | Tu 9/10 | Conditional Probability | Think Conditionally | - | Sect. 2.1-2.2 [B] |
+|  | Th 9/12 | Baye's Theorem, \&<br>The Law of Total Probability | Update Conditional Probabilities | Assigned: Homework 1 | Sect. 2.3-2.4 [B] |
 | **4** | Tu 9/17 | Random Variables \&<br>Probability Functions | Describe a Random Variable | - | Sect. 3.1 [B] |
-|  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | Compute the Expected Value | - | Sect. 4.1, 4.2, \& 4.3 [B] |
-| **5** | Tu 9/24 | Discrete Random Variables \&<br>Probability Mass Functions | Create Probability Mass Functions | - | Sect. 3.2 \& 3.3 |
-|  | Th 9/26 | Discrete Probability Distributions | Understand Known Discrete Probability Distributions | Assigned: Homework 2 | Sect. 3.4, 3.5, \& 3.6 [B] |
+|  | Th 9/19 | Expectation \&<br>The Law of Large Numbers | Compute the Expected Value | - | Sect. 4.1-4.3 [B] |
+| **5** | Tu 9/24 | Discrete Random Variables \&<br>Probability Mass Functions | Create Probability Mass Functions | - | Sect. 3.2-3.3 [B] |
+|  | Th 9/26 | Discrete Probability Distributions | Understand Known Discrete Probability Distributions | Assigned: Homework 2 | Sect. 3.4-3.6 [B] |
 | **6** | Tu 10/1 | _Cancelled_ | - | - | - |
-|  | Th 10/3 | Expectation and Variance of Discrete Random Variables | Interpret the Expected Value and Variance | - | Sect. 4.4, 4.5, \& 4.6 [B] |
+|  | Th 10/3 | Functions of Random Variables \&<br>Variance of Discrete Random Variables | Determine Functions of Random Variables and their Probabilities \& Compute the Variance | - | Sect. 4.4-4.6 [B] |
 | **7** | Tu 10/8 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
 |  | Th 10/10 | **Exam 1** | - | - | - |
 | **8** | Tu 10/15 | _Fall Vacation_ | - | - | - |
 |  | Th 10/17 | _Fall Vacation_ | - | - | - |
-| **9** | Tu 10/22 | Continuous Random Variables \&<br>Probability Density Functions | Create Probability Density functions | - | Sect. 5.1 [B] |
-|  | Th 10/24 | Continuous Probability Distributions | TBA | Assigned: Homework 3 | TBA |
-| **10** | Tu 10/29 | Expectation and Variance of Continuous Random Variables | TBA | - | TBA |
-|  | Th 10/31 | Moment Generating Functions | TBA | - | TBA |
-| **11** | Tu 11/5 | Joint and Marginal Distributions | TBA | - | TBA |
-|  | Th 11/7 | Conditional Distributions | TBA | Assigned: Homework 4 | TBA |
-| **12** | Tu 11/12 | Conditional Expectation and Variance | TBA | - | TBA |
-|  | Th 11/14 | Maximum Likelihood Estimation | TBA | - | TBA |
+| **9** | Tu 10/22 | Continuous Random Variables \&<br>Probability Density Functions | Create Probability Density functions | - | Sect. 5.1-5.3 [B] |
+|  | Th 10/24 | Continuous Probability Distributions | TBA | Assigned: Homework 3 | Sect. 5.4-5.6 [B] |
+| **10** | Tu 10/29 | Expectation and Variance of Continuous Random Variables | TBA | - | Sect. 6.1-6.2 [B] |
+|  | Th 10/31 | Moment Generating Functions | TBA | - | Sect. 6.3-6.5 [B] |
+| **11** | Tu 11/5 | Joint and Marginal Distributions | TBA | - | Sect. 7.1-7.3 [B] |
+|  | Th 11/7 | Conditional Distributions | TBA | Assigned: Homework 4 | Sect. 7.4-7.5 [B] |
+| **12** | Tu 11/12 | Conditional Expectation and Variance | TBA | - | Sect. 9.1-9.5 [B] |
+|  | Th 11/14 | Limit Theorems | TBA | - | Sect. 10.2-10.4 [B] |
 | **13** | Tu 11/19 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
 |  | Th 11/21 | **Exam 2** | - | - | - |
-| **14** | Tu 11/26 | Markov Chains | TBA | - | TBA |
+| **14** | Tu 11/26 | Markov Property | TBA | - | Sect. 11.1-11.2 [B] |
 |  | Th 11/28 | _Thanksgiving Vacation_ | - | - | - |
-| **15** | Tu 12/3 | Markov Chain Monte Carlo | TBA | - | TBA |
-|  | Th 12/5 | Statistical Inference \& Learning | TBA | - | TBA |
+| **15** | Tu 12/3 | Stationary Distributions of Markov Chains | TBA | - | Sect. 11.3-11.4 [B] |
+|  | Th 12/5 | Markov Chain Monte Carlo | TBA | - | Sect. 12.1-12.2 [B] |
 | **16** | Tu 12/11 | **Final Exam Section A** | - | - | - |
 
 <br>
