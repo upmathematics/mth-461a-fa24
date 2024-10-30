@@ -50,9 +50,9 @@ create_footer()
 | **8** | Tu 10/15 | _Fall Vacation_ | - | - | - |
 |  | Th 10/17 | _Fall Vacation_ | - | - | - |
 | **9** | Tu 10/22 | Continuous Random Variables \&<br>Probability Density Functions | Create Probability Density functions | - | Sect. 5.1-5.3 [B] |
-|  | Th 10/24 | Continuous Probability Distributions | TBA | Assigned: Homework 3 | Sect. 5.4-5.6 [B] |
-| **10** | Tu 10/29 | Expectation and Variance of Continuous Random Variables | TBA | - | Sect. 6.1-6.2 [B] |
-|  | Th 10/31 | Moment Generating Functions | TBA | - | Sect. 6.3-6.5 [B] |
+|  | Th 10/24 | Continuous Probability Distributions | Understand Known Continuous Probability Distributions | Assigned: Homework 3 | Sect. 5.4-5.6 [B] |
+| **10** | Tu 10/29 | Expectation and Variance of Continuous Random Variables | Compute the Expectation | - | Sect. 6.1-6.2 [B] |
+|  | Th 10/31 | Moment Generating Functions | Determine the Moments | - | Sect. 6.3-6.5 [B] |
 | **11** | Tu 11/5 | Joint and Marginal Distributions | TBA | - | Sect. 7.1-7.3 [B] |
 |  | Th 11/7 | Conditional Distributions | TBA | Assigned: Homework 4 | Sect. 7.4-7.5 [B] |
 | **12** | Tu 11/12 | Conditional Expectation and Variance | TBA | - | Sect. 9.1-9.5 [B] |
