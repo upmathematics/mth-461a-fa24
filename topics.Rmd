@@ -50,27 +50,20 @@ create_footer()
 | **8** | Tu 10/15 | _Fall Vacation_ | - | - | - |
 |  | Th 10/17 | _Fall Vacation_ | - | - | - |
 | **9** | Tu 10/22 | Continuous Random Variables \&<br>Probability Density Functions | Create Probability Density functions | - | Sect. 5.1-5.3 [B] |
-|  | Th 10/24 | Continuous Probability Distributions | Understand Known Continuous Probability Distributions | Assigned: Homework 3 | Sect. 5.4-5.6 [B] |
-| **10** | Tu 10/29 | Expectation and Variance of Continuous Random Variables | Compute the Expectation | - | Sect. 6.1-6.2 [B] |
-|  | Th 10/31 | Moment Generating Functions | Determine the Moments | - | Sect. 6.3-6.5 [B] |
-| **11** | Tu 11/5 | Joint and Marginal Distributions | TBA | - | Sect. 7.1-7.3 [B] |
-|  | Th 11/7 | Conditional Distributions | TBA | Assigned: Homework 4 | Sect. 7.4-7.5 [B] |
-| **12** | Tu 11/12 | Conditional Expectation and Variance | TBA | - | Sect. 9.1-9.5 [B] |
-|  | Th 11/14 | Limit Theorems | TBA | - | Sect. 10.2-10.4 [B] |
-| **13** | Tu 11/19 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
-|  | Th 11/21 | **Exam 2** | - | - | - |
-| **14** | Tu 11/26 | Markov Property | TBA | - | Sect. 11.1-11.2 [B] |
+|  | Th 10/24 | Continuous Probability Distributions | Understand Known Continuous Probability Distributions | - | Sect. 5.4-5.6 [B] |
+| **10** | Tu 10/29 | *Continued from 10/24* | - | - | - |
+|  | Th 10/31 | Expectation and Variance of Continuous Random Variables | Compute the Expectation | - | Sect. 6.1-6.2 [B] |
+| **11** | Tu 11/5 | *Continued from 10/31* | - | - | - |
+|  | Th 11/7 | *Cancelled* | - | Assigned: Homework 3 | - |
+| **12** | Tu 11/12 | Moment Generating Functions | Determine the Moments | - |  Sect. 6.3-6.5 [B] |
+|  | Th 11/14 | Joint and Marginal Distributions \& Conditional Distributions | TBA | - | Sect. 7.1-7.3 [B] |
+| **13** | Tu 11/19 | Transformations | TBA | - | Sect. 8.1-8.2 [B] |
+|  | Th 11/21 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
+| **14** | Tu 11/26 | **Exam 2** | TBA | - | - |
 |  | Th 11/28 | _Thanksgiving Vacation_ | - | - | - |
-| **15** | Tu 12/3 | Stationary Distributions of Markov Chains | TBA | - | Sect. 11.3-11.4 [B] |
+| **15** | Tu 12/3 | Markov Chains | TBA | - | Sect. 11.1-11.4 [B] |
 |  | Th 12/5 | Markov Chain Monte Carlo | TBA | - | Sect. 12.1-12.2 [B] |
 | **16** | Tu 12/11 | **Final Exam Section A** | - | - | - |
-
-<br>
-
-Along with textbooks [S] and [B], some of the course materials (contents of worksheets and homework) of each topic was taken from these following sources:
-
--   The elements of statistical learning: data mining, inference, and prediction by @hastie2009elements
--   An introduction to statistical learning with Applications in R by @james2013introduction
 
 <br>
 
@@ -80,13 +73,11 @@ Along with textbooks [S] and [B], some of the course materials (contents of work
 refs <- bibtex::read.bib("references.bib")
 ```
 
-*Click on the link to access the resources.*
-
-### Textbooks
-
-[S] `r capture.output(print(refs["speegle2021probability"]))`
-
 [B] `r capture.output(print(refs["blitzstein2019introduction"]))`
+
+*Amendment 7:* In relation to *Amendment 6*, the recommended textbooks are reduced from two to one, and the extra book resources were removed.
+
+*Amendment 8:* The "Textbooks" subsection label is removed under the "Books \& Online Resources Lists".
 
 <br>
 
