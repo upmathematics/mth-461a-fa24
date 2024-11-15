@@ -56,7 +56,7 @@ create_footer()
 | **11** | Tu 11/5 | *Continued from 10/31* | - | - | - |
 |  | Th 11/7 | *Cancelled* | - | Assigned: Homework 3 | - |
 | **12** | Tu 11/12 | Moment Generating Functions | Determine the Moments | - |  Sect. 6.3-6.5 [B] |
-|  | Th 11/14 | Joint and Marginal Distributions \& Conditional Distributions | TBA | - | Sect. 7.1-7.3 [B] |
+|  | Th 11/14 | Joint and Marginal Distributions \& Conditional Distributions | Compute the Marginals | - | Sect. 7.1-7.3 [B] |
 | **13** | Tu 11/19 | Transformations | TBA | - | Sect. 8.1-8.2 [B] |
 |  | Th 11/21 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
 | **14** | Tu 11/26 | **Exam 2** | TBA | - | - |

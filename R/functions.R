@@ -15,7 +15,7 @@ create_footer <- function() {
   
   footer <- HTML(paste0(
     '<footer>',
-    '© 2023 <a href="https://www.alexjohnquijano.com">Alex John Quijano</a> <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-NC</a>\n',
+    '© 2023 <a href="https://www.alexjohnquijano.com">Alex John Quijano</a> <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>\n',
     br(),
     ' Made with ','<a href="https://cran.r-project.org/">R</a>', ' and ',
     '<a href="https://rmarkdown.rstudio.com/">R Markdown,</a> \n',
