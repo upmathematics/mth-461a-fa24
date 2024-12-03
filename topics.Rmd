@@ -46,7 +46,7 @@ create_footer()
 | **6** | Tu 10/1 | _Cancelled_ | - | - | - |
 |  | Th 10/3 | Functions of Random Variables \&<br>Variance of Discrete Random Variables | Determine Functions of Random Variables and their Probabilities \& Compute the Variance | - | Sect. 4.4-4.6 [B] |
 | **7** | Tu 10/8 | _Review_ | Exam 1 Examples | - | Exam 1 Topics |
-|  | Th 10/10 | **Exam 1** | - | - | - |
+|  | Th 10/10 | **Midterm Exam** | - | - | - |
 | **8** | Tu 10/15 | _Fall Vacation_ | - | - | - |
 |  | Th 10/17 | _Fall Vacation_ | - | - | - |
 | **9** | Tu 10/22 | Continuous Random Variables \&<br>Probability Density Functions | Create Probability Density functions | - | Sect. 5.1-5.3 [B] |
@@ -61,9 +61,9 @@ create_footer()
 |  | Th 11/21 | Covariance and Correlation | Determine the Covariance and Correlation | - | Sect. 7.3 [B] |
 | **14** | Tu 11/26 | _Cancelled_ | - | - | - |
 |  | Th 11/28 | _Thanksgiving Vacation_ | - | - | - |
-| **15** | Tu 12/3 | Convolutions & Markov Chains | TBA | - | Sect. 8.2 \& Sect. 11.1-11.4 [B] |
+| **15** | Tu 12/3 | Convolutions | TBA | - | Sect. 8.2 [B] |
 |  | Th 12/5 | _Review_ | Exam 2 Examples | - | Exam 2 Topics |
-| **16** | Tu 12/11 | **Final Exam Section A** | - | - | - |
+| **16** | W 12/11 | **Final Exam Section A** | - | - | - |
 
 <br>
 
